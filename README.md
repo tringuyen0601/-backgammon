@@ -1,5 +1,4 @@
-backgammon
-Description
+
   This program consists of 6 functions that set the game, checks for posible move, checks if the user enter a legal move,
 executse the move, moves a piece out of jail and checks for a winner.
 
